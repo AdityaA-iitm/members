@@ -132,6 +132,21 @@
 
     },
     {
+        "name" : "Aditya Anand",
+        "email" : "23f1001034@ds.study.iitm.ac.in",
+        "links" : {
+            "github" : "https://github.com/AdityaA-iitm",
+            "linkedin" : "https://www.linkedin.com/in/adityaadi01/",
+            "instagram" : "https://www.instagram.com/adityaadi.01/",
+            "personal-website" : "null",
+        }
+        "photo" : "https://photos.google.com/u/1/photo/AF1QipMjNK2zc6ICYm3ClH2E_jbGHDarQlZVo4GaIy49",
+        "shortIntro" : "Hi! This is Aditya, a math enthusiast, tech aficionado, passionate athlete and adventurous explorer, always seeking new horizons to conquer",
+        "position" : "Management Dept.",
+
+    },
+]
+{
         "name" : "null",
         "email" : "null",
         "links" : {
